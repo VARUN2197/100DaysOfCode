@@ -6,12 +6,10 @@ class Car implements Vehicle {
         System.out.println(myCar.getType());
     }
 
-    @Override
     public void honk() {
         System.out.println("Tuut, tuut!");
     }
 
-    @Override
     public String getType() {
         return "CAR";
     }
