@@ -23,6 +23,7 @@ public class SportsBike extends Bike {
         System.out.println(myBike.getType());
         System.out.println(myBike.getCategory());
         System.out.println(myBike.warranty);
+        System.out.println("Harshil");
     }
 
 }
