@@ -23,16 +23,10 @@ public class SportsBike extends Bike {
         System.out.println(myBike.getType());
         System.out.println(myBike.getCategory());
         System.out.println(myBike.warranty);
-<<<<<<< Updated upstream
-        System.out.println("Harshil");
-=======
-
         Cycle Cycle1 = new Cycle(10,1000,"Honda");
         Cycle1.honk();
         System.out.println(Cycle1.getType());
         System.out.println(Cycle1.getCategory());
-
->>>>>>> Stashed changes
     }
 
 }
